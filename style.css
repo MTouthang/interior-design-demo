@@ -4,10 +4,12 @@
 }
 body {
     background-image: url(./asset/retro-living-room-interior-design.jpg);
+    background-position: cover;
     background-repeat: no-repeat;
     margin-left: 6%;
     margin-right: 6%;
-    background-size: 1400px 700px;
+    background-size: 100%;
+
 }
 .logo {
     width: 30px;
