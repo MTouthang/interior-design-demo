@@ -11,6 +11,10 @@ body {
     background-size: 100%;
 
 }
+.logo-heading > img {
+    width: 10px;
+    display: none;
+}
 .logo {
     width: 30px;
 }

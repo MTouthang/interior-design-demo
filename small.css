@@ -6,6 +6,13 @@ body {
     background-size:cover;
     background-repeat: repeat;
 }
+.logo-heading {
+    display: flex;
+}
+.logo-heading > img {
+   display: block;
+   padding-left: 10px;
+}
 
 .logo-heading > h1 {
     font-size: 1.5rem;
