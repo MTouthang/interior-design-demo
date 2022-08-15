@@ -1,0 +1,65 @@
+/*** small screen ****/
+
+body {
+    margin: 0;
+    background-position: center;
+    background-size:cover;
+    background-repeat: repeat;
+}
+
+.logo-heading > h1 {
+    font-size: 1.5rem;
+}
+.nav-items {
+    display: none;
+}
+header {
+    margin-top: 3%;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+#container{
+    flex-direction: column;
+    height: 100vh;
+
+} 
+.left-container > h1 {
+    font-size: 3rem;
+    width: 180%;
+    margin-top: 20%;
+}
+.right-container {
+    margin: 0 6%;
+    width: 80%;
+}
+.r-c-one {
+    width: 50%;
+}
+.line1 {
+    height: 40px;
+    top: 10%; 
+}
+
+
+.dot1 {
+    position: absolute;
+    top: 65%;
+    right: 16.5%;
+    
+}
+
+.r-c-two {
+    width: 50%;
+    left: 0%;
+    bottom: 10%;
+}
+
+.line2 {
+   left: 55%;
+    bottom: 30%;
+    
+}
+
+.dot2 {
+    bottom: -12%;
+} 
