@@ -1,4 +1,4 @@
-### Company API demo Website
+### Interior Design
 ----
 project interior design web landing page demo 
 
@@ -16,5 +16,5 @@ project interior design web landing page demo
 ### ScreenShot
 ![Project screenshot](./interiordsg.PNG)
 
-
+**Mobile responsive**
 *--------------------------------------------- Feel free to fork and play around ----------------------------------------*
