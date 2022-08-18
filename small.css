@@ -6,6 +6,12 @@ body {
     background-size:cover;
     background-repeat: repeat;
 }
+.toggle {
+    cursor: pointer;
+}
+.menu > img {
+    display: block;
+}
 .logo-heading {
     display: flex;
 }
@@ -18,8 +24,19 @@ body {
     font-size: 1.5rem;
 }
 .nav-items {
-    display: none;
+   display: none;
 }
+.menu:focus .nav-items {
+   position: absolute;
+  
+   display: flex;
+   flex-direction: column;
+   top: 90px;
+   text-align: start;
+   padding: 15px 15px;
+    background-color: #052237
+} 
+
 header {
     margin-top: 3%;
     margin-left: 6%;

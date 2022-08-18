@@ -11,8 +11,8 @@ body {
     background-size: 100%;
 
 }
-.logo-heading > img {
-    width: 10px;
+ .menu > img {
+    width: 20px;
     display: none;
 }
 .logo {
@@ -36,6 +36,7 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding-top: 20px;
     
 }
 .nav-items > li{
